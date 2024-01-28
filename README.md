@@ -20,3 +20,13 @@ Postman을 이용하면 간단하게 RESTful API를 테스트할 수 있다.
 ```
 오브젝트를 JSON 형태의 문자열의 요청 바디로 사용한 결과이다.
 ```
+## 200 OK
+![image](https://github.com/wonchihyeon/Postman/assets/58906858/f1c6ea72-3c68-488f-87f4-9b85860e0e08)
+![image](https://github.com/wonchihyeon/Postman/assets/58906858/2e1149db-0a56-4cf4-86e8-54721937cb14)
+
+## 400 Bad Request
+![image](https://github.com/wonchihyeon/Postman/assets/58906858/439b39fc-243d-4969-b0af-c59f3ff1dd48)
+![image](https://github.com/wonchihyeon/Postman/assets/58906858/a6bae42e-4652-48f9-b9d3-6ff5b7d74aa0)
+```
+@ResponseEntity를 사용하여 http status를 각각 200과 400으로 조작하여 http get 요청을 보낸 결과이다.
+```
