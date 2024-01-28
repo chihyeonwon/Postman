@@ -15,3 +15,8 @@ Postman을 이용하면 간단하게 RESTful API를 테스트할 수 있다.
 ```
 작성중인 springboot 어플리케이션을 실행한 후 포스트맨을 이용해서 localhost:8080 HTTP GET 요청을 보낸 결과이다.
 ```
+![image](https://github.com/wonchihyeon/Postman/assets/58906858/870eb8a4-9d4b-496b-8150-4a57d98788a2)
+![image](https://github.com/wonchihyeon/Postman/assets/58906858/bcd0d731-a899-4d74-9d66-02bbe8efb2cd)
+```
+오브젝트를 JSON 형태의 문자열의 요청 바디로 사용한 결과이다.
+```
